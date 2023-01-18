@@ -32,7 +32,7 @@ Aplication will be deployed in AWS ECS.
 
 3. Push the image to ECR
 
-4. Deploy the image
+4. Deploy the Image
 
 
 ## Notes
